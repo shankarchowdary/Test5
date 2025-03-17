@@ -1,0 +1,16 @@
+{
+"companyName": "Flix",
+"productName": "BoatsDistances",
+"productVersion": "1.0",
+"dataUrl": "Unity Webzl Files.data.unityweb",
+"wasmCodeUrl": "Unity Webzl Files.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unity Webzl Files.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
